@@ -25,3 +25,4 @@ workflow-step-api:latest
 workflow-support:latest
 job-dsl:latest
 ansicolor:latest
+docker-plugin:latest
